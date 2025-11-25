@@ -18,9 +18,6 @@
   <a href="mailto:tush.work10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://ticsture.com">
-    <img src="https://img.shields.io/badge/Portfolio-ticsture.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 </div>
@@ -84,23 +81,6 @@ Currently exploring **AI safety tooling**, **adaptive security systems**, and **
 
 ---
 
-## Work Experience
-
-### 🎨 Graphic Designer | LevanV
-*September 2021 – August 2022*
-- Created visually impactful designs using Adobe Creative Suite (Illustrator, After Effects, Photoshop)
-- Designed promotional materials, event graphics, and social media content
-- Ensured brand consistency and alignment with client expectations
-- Collaborated with marketing teams to deliver creative solutions
-
-### 📈 Digital Marketing Intern | SEMS Foundation  
-*October 2021 – August 2022*
-- Supported SEO strategies to enhance online visibility and search rankings
-- Analyzed marketing data and performance trends across platforms
-- Measured campaign success metrics and provided optimization recommendations
-- Contributed to digital marketing strategy development
-
----
 
 ## Featured Projects
 
