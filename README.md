@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tushal(ticsture)
+# 👋 Hi, I'm Tushal Chandwani
 
 ### Full-Stack Engineer | AI Systems Developer | Security Researcher
 
@@ -8,9 +8,20 @@
 
 *Building intelligent, scalable systems that bridge AI capabilities with real-world security and productivity challenges.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ticsture.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ticsture.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ticsture-181717?style=flat-square&logo=github)](https://github.com/ticsture)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ticsture)
+<p align="center">
+  <a href="https://github.com/ticsture">
+    <img src="https://img.shields.io/badge/GitHub-ticsture-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/tushc">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tush.work10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://ticsture.com">
+    <img src="https://img.shields.io/badge/Portfolio-ticsture.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -26,17 +37,68 @@ Currently exploring **AI safety tooling**, **adaptive security systems**, and **
 
 ## Education
 
-**🎓 Saarland University, Germany**  
-*Bachelor of Science in Computer Science*  
-*Expected Graduation: [Year]*
+**🎓 Universität des Saarlandes, Germany**  
+*Bachelor of Science in Informatik (Computer Science)*  
+*Current Student*
 
 **Relevant Coursework:**
-- Advanced Algorithms & Data Structures
+- Programming 2 (Passed)
+- Advanced Algorithms & Data Structures  
 - Database Systems & Architecture
 - Software Engineering Principles
 - Artificial Intelligence & Machine Learning
 - Computer Security & Cryptography
-- Distributed Systems
+- Mathematical Foundations (Maple, LaTeX)
+
+---
+
+## Academic Projects
+
+### 🗺️ Route Planner (Java)
+**Shortest path calculation with OpenStreetMap integration**
+- Designed Java application to calculate optimal routes between coordinates
+- Implemented support for intermediate waypoints and stops
+- Integrated OpenStreetMap (OSM) API for navigation visualization
+- Optimized pathfinding algorithms for real-world geographic data
+
+### 🎮 2048 Game with AI Solver (Java)
+**Game implementation with intelligent AI algorithm**
+- Developed complete 2048 sliding puzzle with customizable grid sizes
+- Implemented tile merging mechanics and score tracking
+- Created AI algorithm capable of solving game in under 5 seconds
+- Applied minimax and expectimax algorithms for optimal play
+
+### 🔍 PageRank Algorithm Implementation (C)
+**Google's ranking algorithm from scratch**
+- Implemented simplified version of Google's PageRank in C
+- Used matrix operations to model web page link structures
+- Calculated page importance scores based on link topology
+- Optimized for performance with large-scale web graph processing
+
+### 🖼️ Edge Detection Algorithm (C)
+**Computer vision for image boundary identification**
+- Developed edge detection algorithm for grayscale image processing
+- Implemented gradient-based boundary detection techniques
+- Enhanced image analysis capabilities for computer vision applications
+- Optimized for real-time processing of high-resolution images
+
+---
+
+## Work Experience
+
+### 🎨 Graphic Designer | LevanV
+*September 2021 – August 2022*
+- Created visually impactful designs using Adobe Creative Suite (Illustrator, After Effects, Photoshop)
+- Designed promotional materials, event graphics, and social media content
+- Ensured brand consistency and alignment with client expectations
+- Collaborated with marketing teams to deliver creative solutions
+
+### 📈 Digital Marketing Intern | SEMS Foundation  
+*October 2021 – August 2022*
+- Supported SEO strategies to enhance online visibility and search rankings
+- Analyzed marketing data and performance trends across platforms
+- Measured campaign success metrics and provided optimization recommendations
+- Contributed to digital marketing strategy development
 
 ---
 
@@ -130,70 +192,69 @@ A modern, production-ready SaaS platform for high-performance teams. Features in
 <tr>
 <td valign="top" width="33%">
 
-### Frontend
-- React / Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- Server Components
-- Client-side state management
-- Responsive design systems
+### Programming Languages
+- **Java** (Advanced - Game AI, Algorithms)
+- **Python** (Data Science, AI/ML)
+- **C** (Systems Programming, Algorithms)
+- **JavaScript/TypeScript** (Full-stack)
+- **OCaml** (Functional Programming)
+- **MIPS** (Assembly Language)
+- **SQL** (Database Management)
 
 </td>
 <td valign="top" width="33%">
 
-### Backend
-- Node.js / Express
-- RESTful API design
-- Prisma ORM
-- PostgreSQL / MongoDB
-- JWT authentication
-- Middleware patterns
+### Web Development
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, SQL
+- **Architecture:** RESTful APIs, Microservices
+- **DevOps:** Docker, AWS, CI/CD
+- **Design:** Figma, Responsive Systems
 
 </td>
 <td valign="top" width="33%">
 
-### AI & Security
-- LLM integration (Groq, OpenAI)
-- Prompt engineering
-- Adversarial testing
-- Threat intelligence
-- Security risk assessment
-- AI safety tooling
+### Specialized Skills
+- **AI & ML:** LLM Integration, Prompt Engineering
+- **Security:** Threat Intelligence, Risk Assessment
+- **Algorithms:** Data Structures, Optimization
+- **Graphics:** Adobe Creative Suite (Illustrator, Photoshop, After Effects)
+- **Marketing:** SEO, Digital Strategy, Analytics
+- **Academic:** LaTeX, Maple, Research Methods
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### Infrastructure
-- Docker / Docker Compose
-- AWS (S3, ECS, RDS, ALB)
-- Terraform (IaC)
-- CI/CD pipelines
-- Database migrations
-- Environment management
+### Microsoft Office Suite
+- **Excel:** PivotTables, XLOOKUP/VLOOKUP, Charts
+- **Data Analysis:** Advanced formulas, visualization
+- **Productivity:** Word, PowerPoint, Outlook
+- **Collaboration:** Teams, OneDrive, SharePoint
+- **Project Management:** Task tracking, reporting
 
 </td>
 <td valign="top">
 
-### Tools & Practices
-- Git / GitHub
-- ESLint / Prettier
-- Testing frameworks
-- Performance optimization
-- Code documentation
-- Agile workflows
+### Creative & Design
+- **Adobe Creative Suite:** Illustrator, Photoshop, After Effects
+- **Design Tools:** Canva, Figma
+- **Brand Development:** Logo design, marketing materials
+- **Content Creation:** Social media graphics, promotional content
+- **UI/UX:** User interface design, prototyping
 
 </td>
 <td valign="top">
 
-### Architecture
-- Microservices patterns
-- Serverless functions
-- RESTful design
-- Event-driven systems
-- State management
-- Scalable data models
+### Core Competencies
+- **Problem Solving:** Algorithm design, optimization
+- **Project Management:** End-to-end development
+- **Communication:** Technical documentation, presentations
+- **Learning:** Quick adaptation to new technologies
+- **Collaboration:** Cross-functional team experience
+- **Quality:** Code review, testing, best practices
 
 </td>
 </tr>
@@ -239,8 +300,8 @@ I'm always interested in discussing:
 - Open source collaboration opportunities
 
 **Reach out:**
-- 📧 **Email:** [your-email@uni-saarland.de](mailto:your-email@uni-saarland.de)
-- 💼 **LinkedIn:** [linkedin.com/in/ticsture](https://linkedin.com/in/ticsture)
+- 📧 **Email:** [tush.work10@gmail.com](mailto:tush.work10@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tushc](https://linkedin.com/in/tushc)
 - 🐙 **GitHub:** [@ticsture](https://github.com/ticsture)
 - 🌐 **Portfolio:** [ticsture.com](https://ticsture.com)
 
