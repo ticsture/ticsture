@@ -103,37 +103,6 @@ Built for the Apart Research Defensive Acceleration Hackathon. AI Mesh enables r
 
 ---
 
-## Academic Projects
-
-### 🗺️ Route Planner (Java)
-**Shortest path calculation with OpenStreetMap integration**
-- Designed Java application to calculate optimal routes between coordinates
-- Implemented support for intermediate waypoints and stops
-- Integrated OpenStreetMap (OSM) API for navigation visualization
-- Optimized pathfinding algorithms for real-world geographic data
-
-### 🎮 2048 Game with AI Solver (Java)
-**Game implementation with intelligent AI algorithm**
-- Developed complete 2048 sliding puzzle with customizable grid sizes
-- Implemented tile merging mechanics and score tracking
-- Created AI algorithm capable of solving game in under 5 seconds
-- Applied minimax and expectimax algorithms for optimal play
-
-### 🔍 PageRank Algorithm Implementation (C)
-**Google's ranking algorithm from scratch**
-- Implemented simplified version of Google's PageRank in C
-- Used matrix operations to model web page link structures
-- Calculated page importance scores based on link topology
-- Optimized for performance with large-scale web graph processing
-
-### 🖼️ Edge Detection Algorithm (C)
-**Computer vision for image boundary identification**
-- Developed edge detection algorithm for grayscale image processing
-- Implemented gradient-based boundary detection techniques
-- Enhanced image analysis capabilities for computer vision applications
-- Optimized for real-time processing of high-resolution images
-
----
 
 ### 📋 [TaskFlow](https://github.com/ticsture/cloud-saas-app)
 **Linear-inspired project management with real-time analytics**
@@ -164,6 +133,38 @@ A modern, production-ready SaaS platform for high-performance teams. Features in
 - Terraform IaC for cloud deployment
 
 [View Project →](https://github.com/ticsture/cloud-saas-app)
+
+---
+
+## Academic Projects
+
+### 🗺️ Route Planner (Java)
+**Shortest path calculation with OpenStreetMap integration**
+- Designed Java application to calculate optimal routes between coordinates
+- Implemented support for intermediate waypoints and stops
+- Integrated OpenStreetMap (OSM) API for navigation visualization
+- Optimized pathfinding algorithms for real-world geographic data
+
+### 🎮 2048 Game with AI Solver (Java)
+**Game implementation with intelligent AI algorithm**
+- Developed complete 2048 sliding puzzle with customizable grid sizes
+- Implemented tile merging mechanics and score tracking
+- Created AI algorithm capable of solving game in under 5 seconds
+- Applied minimax and expectimax algorithms for optimal play
+
+### 🔍 PageRank Algorithm Implementation (C)
+**Google's ranking algorithm from scratch**
+- Implemented simplified version of Google's PageRank in C
+- Used matrix operations to model web page link structures
+- Calculated page importance scores based on link topology
+- Optimized for performance with large-scale web graph processing
+
+### 🖼️ Edge Detection Algorithm (C)
+**Computer vision for image boundary identification**
+- Developed edge detection algorithm for grayscale image processing
+- Implemented gradient-based boundary detection techniques
+- Enhanced image analysis capabilities for computer vision applications
+- Optimized for real-time processing of high-resolution images
 
 ---
 
@@ -281,9 +282,9 @@ I'm always interested in discussing:
 - Open source collaboration opportunities
 
 **Reach out:**
-- 📧 **Email:** [tush.work10@gmail.com](mailto:tush.work10@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tushc](https://linkedin.com/in/tushc)
-- 🐙 **GitHub:** [@ticsture](https://github.com/ticsture)
+-  **Email:** [tush.work10@gmail.com](mailto:tush.work10@gmail.com)
+-  **LinkedIn:** [linkedin.com/in/tushc](https://linkedin.com/in/tushc)
+-  **GitHub:** [@ticsture](https://github.com/ticsture)
 
 *Available for internships, research collaborations, and open-source contributions.*
 
