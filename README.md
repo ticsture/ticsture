@@ -4,10 +4,13 @@
 
 ### Full-Stack Engineer | AI Systems Developer | Security Researcher
 
+**Computer Science Student @ Saarland University**
+
 *Building intelligent, scalable systems that bridge AI capabilities with real-world security and productivity challenges.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ticsture.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ticsture.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ticsture-181717?style=flat-square&logo=github)](https://github.com/ticsture)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tushc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ticsture)
 
 </div>
 
@@ -15,9 +18,25 @@
 
 ## About Me
 
-I'm a software engineer passionate about architecting production-grade systems at the intersection of AI, security, and developer experience. My work focuses on building **intelligent platforms** that solve complex problems through clean architecture, thoughtful design, and cutting-edge technology.
+I'm a **Computer Science student at Saarland University, Germany**, passionate about architecting production-grade systems at the intersection of AI, security, and developer experience. My work focuses on building **intelligent platforms** that solve complex problems through clean architecture, thoughtful design, and cutting-edge technology.
 
 Currently exploring **AI safety tooling**, **adaptive security systems**, and **high-performance SaaS platforms**. I thrive in environments where engineering rigor meets rapid innovation.
+
+---
+
+## Education
+
+**🎓 Saarland University, Germany**  
+*Bachelor of Science in Computer Science*  
+*Expected Graduation: [Year]*
+
+**Relevant Coursework:**
+- Advanced Algorithms & Data Structures
+- Database Systems & Architecture
+- Software Engineering Principles
+- Artificial Intelligence & Machine Learning
+- Computer Security & Cryptography
+- Distributed Systems
 
 ---
 
@@ -220,10 +239,12 @@ I'm always interested in discussing:
 - Open source collaboration opportunities
 
 **Reach out:**
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/ticsture](https://linkedin.com/in/ticsture)
-- 🐦 Twitter: [@ticsture](https://twitter.com/ticsture)
-- 🌐 Portfolio: [ticsture.com](https://ticsture.com)
+- 📧 **Email:** [your-email@uni-saarland.de](mailto:your-email@uni-saarland.de)
+- 💼 **LinkedIn:** [linkedin.com/in/ticsture](https://linkedin.com/in/ticsture)
+- 🐙 **GitHub:** [@ticsture](https://github.com/ticsture)
+- 🌐 **Portfolio:** [ticsture.com](https://ticsture.com)
+
+*Available for internships, research collaborations, and open-source contributions.*
 
 ---
 
