@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tushal Chandwani
+# 👋 Hi, I'm Tushal(ticsture)
 
 ### Full-Stack Engineer | AI Systems Developer | Security Researcher
 
