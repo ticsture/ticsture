@@ -283,7 +283,6 @@ I'm always interested in discussing:
 - 📧 **Email:** [tush.work10@gmail.com](mailto:tush.work10@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/tushc](https://linkedin.com/in/tushc)
 - 🐙 **GitHub:** [@ticsture](https://github.com/ticsture)
-- 🌐 **Portfolio:** [ticsture.com](https://ticsture.com)
 
 *Available for internships, research collaborations, and open-source contributions.*
 
