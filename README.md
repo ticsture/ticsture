@@ -1,14 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Ticsture
+# 👋 Hi, I'm Tushal(ticsture)
 
 ### Full-Stack Engineer | AI Systems Developer | Security Researcher
 
 *Building intelligent, scalable systems that bridge AI capabilities with real-world security and productivity challenges.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ticsture.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ticsture.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ticsture-181717?style=flat-square&logo=github)](https://github.com/ticsture)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ticsture)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tushc/)
 
 </div>
 
